@@ -3,3 +3,4 @@ write second line;
 the third;
 real three;
 write at dev;
+feature wite last line;
