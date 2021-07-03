@@ -1,4 +1,8 @@
 /*
    just fist line;
 */
+<<<<<<< HEAD
 master write a line;
+=======
+branch write a line;
+>>>>>>> bran
